@@ -4,7 +4,7 @@
   "description": "Testing various  api  features ",
   "main": "./lib/index.js",
   "scripts" : {
-    "test" : "mocha test.js",
+    "test" : "mocha test.js"
   },
   "keywords": [],
   "author": "APIMATIC SDK Generator",
