@@ -3,7 +3,9 @@
   "version": "1.1.0",
   "description": "Testing various  api  features",
   "main": "./lib/index.js",
-  "scripts": {},
+  "scripts" : {
+    "test" : "mocha test.js",
+  },
   "keywords": [],
   "author": "APIMATIC SDK Generator",
   "dependencies": {
