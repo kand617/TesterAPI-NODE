@@ -1,7 +1,7 @@
 {
   "name": "testerlib",
   "version": "1.1.0",
-  "description": "Testing various  api  features",
+  "description": "Testing various  api  features ",
   "main": "./lib/index.js",
   "scripts" : {
     "test" : "mocha test.js",
